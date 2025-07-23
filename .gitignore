@@ -1,7 +1,6 @@
 ### https://github.com/github/gitignore/blob/main/R.gitignore
 
-**/*.xlsx
-**/*.csv
+datasets/*.csv
 **/*.rds
 **/*.txt
 **/*.html
